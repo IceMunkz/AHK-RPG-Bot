@@ -1,0 +1,70 @@
+FAQ
+AHK script is included for troubleshooting "ImageSearchTestWorking Bot version with GUI"
+ESC to pause
+
+
+--- How to run ---
+
+#1 Paste "GN" Folder in Root of C (C:\GN\)
+
+#2 Open GN in Chrome
+
+#3 Set your GN chrome window to 100%
+
+4# Run GNBotv1
+
+Watch the status box and anything it seems to skip you need to reaquire images for, sometimes the website will update, move or change the brightness of an image and this can make the bot fail.
+
+It shouldn't be a major issue now that the bot can find images similar but its still a factor on anything that uses FindClick for coords.
+
+
+--- How to refresh your images ---
+The game has a basic anticheat that moves and modifies the page over time, it also lowers opacity, brightness and changes colours very slightly.
+
+Because of this you might need to refresh certain images, the GUI for that is currently broken so
+
+In the GN folder their is a series of images, named due to what they do
+
+You need to take screenshots similar or of the same link as the images listed here and save them as PNGs under the same name in the folder
+
+
+
+
+100 - 100% Fraud Completion (Must be the 100 from 100%)
+bankdeposit - Bank Depo button (Use half of Deposit)
+bankshort - Shortcut at the top of the page with Cash: and Bank: (Use ash from Cash)
+bankwith - NOT USED AT THE MOMENT
+bankwith2 - The withdrawal amount for bullets recommend 20k (Set bank quick withdraw first box to 20k and SS 20k)
+bulletbuy - purchase button on bullets (use "pur" from purchase and make sure you do it after you've withdrawl your 20k)
+bust - JAILWATCHER (inmate logo on orange character try to get small centered pic)
+bust2 - Actual Jailwatcher image (Use DA graffeti on the Jailed screen)
+car - Vehicle theft sidebar 
+carhp - HP on autotheft page use the red bar on 500% make sure you get atleast 10 pixels
+cartest - Not used ATM
+crimetask - Small Crimes task (Use words and whichever crime you want)
+exlvl - extortion (use the word "level" from on of the victims, small picture needed)
+extor - extortion sidebar button (use the words again)
+fed - chase sidebar button (use image or the words)
+fedflee - chase attempt escape button (use car image)
+fedrun - chase run away button (use car image with police car)
+fraudplan - used for ID theft to plan further before 100% (Use the book from ID theft)
+Gnsux - LOGO for bot (No need to modify)
+prison - Prison busting sidebar button (image or text from sidebar)
+pristimer - The timer from in the prison screen on a victim (use just the first 00 out of 00:00:00)
+robloco - robbery location choice (For electronics store use TV icon)
+wireblue/red/green/yellow - wires from Bomb Defuse (Use middle of wires)
+chance - Fraud completion (Wait for 100% chance then take SS of "100% Chance")
+Bomb - Bomb defuse sidebar button (Use word)
+bullet - Bullet sidebar button (use image or word)
+crimes - Small crime sidebar button (use image or word)
+fraudchoose - Choice for fraud script (Use only IDfraud and use the text from the choice)
+robknife - Robbery weapon choice default knife (Use the full button with knife and text)
+rob - Robbery sidebar button (use image or text)
+fraud - Fraud sidebar button (Use text)
+
+
+
+
+
+
+
